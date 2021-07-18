@@ -1,0 +1,82 @@
+body{
+    background-image: url('Images/BackGround_img.jpg');
+    background-repeat: no-repeat;
+}
+
+nav{
+    border-radius: 25px;
+}
+
+h1{
+    color: white;
+    text-align: center;
+    margin-top: 5%;
+}
+
+label{
+    color: dodgerblue;
+    text-align: center;
+    font-size: 25px;
+    width: 100%;
+}
+
+div{
+    height: 100%;
+}
+
+.container{
+    margin-top: 10%;
+    margin-bottom: 10%;
+    background-color: aliceblue;
+    border-radius: 25px;
+}
+
+button{
+    margin-bottom: 15px;
+    align-items: center;
+    width: 100%;
+}
+
+#Ltitle, #LContent{
+    text-align:left;
+    
+}
+input{
+    margin-bottom: 20px;
+}
+
+#IContent{
+    height: 150px;
+    margin-bottom: 20px;
+}
+
+#BodyofTwoCols{
+    width:100%;
+    height: 100%;
+}
+
+#FirstColumn{
+    width:25%;
+    margin-top: 10px;
+    margin-left: 10px;
+    background-color: white;
+    height: 100%;
+    border-radius: 25px;
+}
+
+#SecondColumn{
+    background-color: beige;
+    border-radius: 25px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+#HTitle{
+    color:black;
+    margin: 20px;
+}
+
+#PContent{
+    color:black;
+    margin: 20px;
+}
